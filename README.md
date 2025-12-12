@@ -42,6 +42,3 @@ A simple web app for students to track their daily mood with basic AI sentiment 
 
 ---
 
-## Preview
-![Mood Journal Preview](screenshot.png)  
-*Add a screenshot of the app here to make it visually appealing*
